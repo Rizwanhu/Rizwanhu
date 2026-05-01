@@ -1,6 +1,27 @@
-# 💫 About Me:
-# Hi, I'm Rizwan Hussain 👋<br>### Full-Stack Engineer | AI Automation Specialist | Founder<br><br>I don't just write code; I build scalable systems that solve actual business bottlenecks. [cite_start]Currently an undergraduate in Computer Science at Information Technology University (Class of 2027)[cite: 68, 71], I specialize in engineering responsive web platforms, cross-platform mobile apps, and autonomous AI agents.<br><br>**🚀 How I Drive Impact:**<br>* [cite_start]**Performance Optimization:** Reduced page load times and boosted SEO rankings utilizing Next.js SSR and dynamic routing.<br>* [cite_start]**Enterprise Architecture:** Engineered and deployed secure, RESTful APIs powering 40+ page dashboard systems with strict role-based access control.<br>* [cite_start]**AI Integration:** Bridging the gap between software and automation by integrating LLMs (like the Gemini API) for real-time analytics and personalized user experiences[cite: 37]. I extensively build voice agents and workflow automations using Vapi, n8n, and Make.com.<br>* [cite_start]**Rapid Delivery:** Delivered cross-platform mobile applications using React Native (Expo), significantly reducing client time-to-market while hitting sprint deadlines.<br><br>**🛠️ The Tech Arsenal:**<br>* [cite_start]**Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS [cite: 55]<br>* [cite_start]**Backend:** Node.js, Express.js, GraphQL, WebSockets [cite: 56]<br>* [cite_start]**Mobile:** Flutter, React Native (Expo) [cite: 57]<br>* [cite_start]**Databases:** MongoDB Atlas, Supabase, MySQL [cite: 58]<br>* [cite_start]**AI/Automation:** Python, Gemini API, Prompt Engineering[cite: 59], Vapi, n8n<br><br>**🏆 Featured Engineering Feats:**<br>* [cite_start]**CA Millwright CRM:** Centralized resource allocation for the construction industry by architecting a 40+ page enterprise CRM, actively reducing operational overhead. <br>* [cite_start]**FitConnect:** Built an AI-powered fitness platform featuring real-time health analytics and personalized workout generation via the Gemini API[cite: 37].<br>* [cite_start]**Event Management App:** Eliminated coordination bottlenecks with a role-based platform featuring integrated ticketing and review workflows[cite: 42, 43].<br><br>📫 **Let's Connect:** [LinkedIn](linkedin.com/in/rizwan-hussain66) | [cite_start][Fiverr](https://www.fiverr.com/s/ZmVNzal) [cite: 4]
+<div align="center">
 
+# Hi there, I'm Rizwan Hussain 👋
+
+**Full-Stack Engineer | AI Automation Specialist | Founder**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rizwan-hussain66)
+[![Fiverr](https://img.shields.io/badge/Fiverr-00b22d?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/ZmVNzal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=flat&logo=mac-os&logoColor=white)](#) *I don't just write code; I build scalable systems that solve actual business bottlenecks.*
+
+</div>
+
+---
+
+### 💫 About Me
+Currently an undergraduate in Computer Science at Information Technology University (Class of 2027), I specialize in engineering responsive web platforms, cross-platform mobile apps, and autonomous AI agents. 
+
+### 🚀 How I Drive Impact
+- **Performance Optimization:** Reduced page load times and boosted SEO rankings utilizing Next.js SSR and dynamic routing.
+- **Enterprise Architecture:** Engineered and deployed secure, RESTful APIs powering 40+ page dashboard systems with strict role-based access control.
+- **AI Integration:** Bridging the gap between software and automation by integrating LLMs (like the Gemini API) for real-time analytics and personalized user experiences. I extensively build voice agents and workflow automations using Vapi, n8n, and Make.com.
+- **Rapid Delivery:** Delivered cross-platform mobile applications using React Native (Expo), significantly reducing client time-to-market while hitting sprint deadlines.
+
+---
 
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rizwan Hussain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rizwanhu140@gmail.com) 
